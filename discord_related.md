@@ -34,6 +34,7 @@ layout: default
 - [Provenance (iOS/tvOS)](https://discord.gg/4TK7PU5)
 - [Mu (Palm OS)](https://discord.gg/hWSz8VN)
 - [SquirrelJME (Java ME 8)](https://discord.gg/9PkMMKt)
+- [Emulicious (Master System, Game Boy, MSX)](https://discord.gg/YuKjBUF)
 
 ## Emulation Community Servers
 - [RetroArch/libretro](https://discord.gg/rbJJaR9)
